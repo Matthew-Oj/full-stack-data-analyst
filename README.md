@@ -259,7 +259,7 @@ After running `dbt init`, dbt will ask you a series of questions. Here’s a gui
 | **Authentication type** | `1` for password (or keypair/SSO if configured)                                      |
 | **Password**            | Your Snowflake password                                                              |
 | **Role**                | The role you created (`analyst_role`)                                                |
-| **Warehouse**           | Your warehouse (`DEMO_WH`)                                                           |
+| **Warehouse**           | Your warehouse (`SALES_WH`)                                                           |
 | **Database**            | The database you created (`SALES_DB`)                                                |
 | **Schema**              | The schema you created (`SALES_SCHEMA`)                                              |
 | **Threads**             | How many threads dbt should use for parallel execution (e.g., `4`)                   |
