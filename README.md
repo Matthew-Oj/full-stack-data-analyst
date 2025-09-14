@@ -254,8 +254,8 @@ After running `dbt init`, dbt will ask you a series of questions. Here’s a gui
 | ----------------------- | ------------------------------------------------------------------------------------ |
 | **Project name**        | `dbt_sales` (letters, numbers, underscores only)                                     |
 | **Database adapter**    | `1` for Snowflake                                                                    |
-| **Account**             | Enter your Snowflake account identifier from the URL (e.g., `xa00998.eu-west-2.aws`) |
-| **Username**            | Your Snowflake username (`MATTHEWOJ123`)                                             |
+| **Account**             | Enter your Snowflake account identifier from the URL (e.g., `ab12345.eu-west-2.aws`) |
+| **Username**            | Your Snowflake username (`FNAMELNAME123`)                                             |
 | **Authentication type** | `1` for password (or keypair/SSO if configured)                                      |
 | **Password**            | Your Snowflake password                                                              |
 | **Role**                | The role you created (`analyst_role`)                                                |
