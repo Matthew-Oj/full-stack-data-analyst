@@ -27,6 +27,7 @@
   - [Learning Outcomes](#learning-outcomes)
   - [Questions or Issues?](#questions-or-issues)
 
+---
 
 An end-to-end beginner-friendly project to practice **data engineering + analytics** skills:
 
