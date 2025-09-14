@@ -1,0 +1,18 @@
+customer_id,customer_name,region,signup_date,last_updated
+101,Alice Smith,North,2022-11-15,2023-01-01
+102,Bob Johnson,West,2022-10-20,2023-01-02
+103,Charlie Lee,East,2022-09-10,2023-01-03
+104,Diana Ross,South,2022-08-05,2023-01-04
+105,Ethan Brown,North,2022-07-18,2023-01-05
+106,Fiona Davis,North,2022-06-25,2023-01-06
+107,George Wilson,East,2022-05-30,2023-01-07
+108,Hannah Clark,South,2022-04-12,2023-01-08
+109,Ian Miller,North,2022-03-03,2023-01-09
+110,Jane Moore,West,2022-02-14,2023-01-10
+111,Kevin Taylor,East,2022-01-01,2023-01-11
+112,Linda White,South,2022-12-22,2023-01-12
+113,Mike Harris,North,2022-12-05,2023-01-13
+114,Nina Scott,West,2022-11-30,2023-01-14
+115,Oscar King,East,2022-11-01,2023-01-15
+106,Fiona Davis,West,2022-06-25,2023-01-12
+110,Jane Moore,East,2022-02-14,2023-01-15
