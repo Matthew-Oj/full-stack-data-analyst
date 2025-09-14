@@ -65,11 +65,13 @@ Before starting this project, make sure you have the following installed or acco
 ```
 full-stack-data-analyst/
 │── data/                     # CSV files (raw input)
-│   └── customers.csv
-│   └── orders.csv
+│   ├── customers.csv
+│   ├── orders.csv
+│   └── challenge/            # Challenge task
+│       └── extract.py
 │
 │── dbt_sales/                # dbt project folder - does not exist yet
-│   ├── models/               # recommneded structure 
+│   ├── models/               # recommended structure 
 │   │   ├── staging/
 │   │   │   └── stg_customers.sql
 │   │   │   └── stg_orders.sql
@@ -77,7 +79,7 @@ full-stack-data-analyst/
 │   │   │   └── fct_sales.sql
 │   │   └── schema.yml
 │
-│── dashboard/                # Streamlit app
+│── dashboard/                # Streamlit dashboard app
 │   └── .env
 │   └── app.py
 │
@@ -91,6 +93,7 @@ full-stack-data-analyst/
 │── LICENSE
 │── SECURITY.md
 │── requirements.txt
+
 ```
 
 ---
